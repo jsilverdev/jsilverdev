@@ -25,7 +25,7 @@ mixin JSilverDev {
     "Spring Boot",
     "Angular",
     "Vue.js",
-    "TailwindCss",
+    "Tailwind CSS",
   ];
 
   List<String> techAndTools = [
