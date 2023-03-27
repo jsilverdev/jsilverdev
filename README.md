@@ -1,16 +1,42 @@
-### Hi there 👋
+```dart
+class AboutMe with JSilverDev {
 
-<!--
-**jsilverdev/jsilverdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  String name = "Julio Rios";
 
-Here are some ideas to get you started:
+  String currentlyDoing = "Learning and coding";
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  String currentlyLearning = "Dart & Flutter";
+
+  String preferredOS = "Linux"; //Manjaro
+
+}
+
+mixin JSilverDev {
+
+  List<String> code = [
+    "PHP",
+    "Dart",
+    "Java",
+    "JavaScript",
+    "TypeScript",
+    "Shell",
+    "Laravel",
+    "Flutter",
+    "Spring Boot",
+    "Angular",
+    "TailwindCss",
+    "IONIC"
+  ];
+
+  List<String> techAndTools = [
+    "MySQL",
+    "SQL Server",
+    "Redis",
+    "Docker",
+    "GCP",
+    "AWS",
+  ];
+
+}
+
+```
