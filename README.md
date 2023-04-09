@@ -6,9 +6,6 @@ class AboutMe with JSilverDev {
   String currentlyDoing = "Learning and coding";
 
   String currentlyLearning = "Dart & Flutter";
-
-  String preferredOS = "Linux"; //Manjaro
-
 }
 
 mixin JSilverDev {
