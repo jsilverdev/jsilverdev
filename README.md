@@ -5,7 +5,7 @@ class AboutMe with JSilverDev {
 
   String currentlyDoing = "Learning and coding";
 
-  String currentlyLearning = "Dart & Flutter";
+  String currentlyLearning = "Spring Boot & Flutter";
 }
 
 mixin JSilverDev {
