@@ -11,22 +11,20 @@ class AboutMe with JSilverDev {
 mixin JSilverDev {
 
   List<String> codeWith = [
-    "PHP",
-    "Dart",
     "Java",
+    "Dart",
+    "PHP",
     "JavaScript",
     "TypeScript",
-    "Shell",
     "Laravel",
-    "Flutter",
     "Spring Boot",
+    "Flutter",
     "Angular",
-    "Vue.js",
-    "Tailwind CSS",
   ];
 
   List<String> techAndTools = [
     "MySQL",
+    "PostgreSQL"
     "SQL Server",
     "Docker",
     "GCP",
