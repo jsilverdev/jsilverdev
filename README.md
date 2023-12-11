@@ -1,14 +1,14 @@
 ```dart
-class AboutMe with JSilverDev {
+class AboutMe with JsilverDev {
 
   String name = "Julio Rios";
 
   String currentlyDoing = "Learning and coding";
 
-  String currentlyLearning = "Java and Dart";
+  String currentlyWorkingWith = "Java and Mulesoft";
 }
 
-mixin JSilverDev {
+mixin JsilverDev {
 
   List<String> codeWith = [
     "Java",
@@ -29,6 +29,7 @@ mixin JSilverDev {
     "Docker",
     "GCP",
     "AWS",
+    "Mulesoft"
   ];
 
 }
